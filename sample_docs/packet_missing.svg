@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1100">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="40" y="80" font-family="Arial" font-size="22">Prior Authorization Packet</text>
+  <text x="40" y="120" font-family="Arial" font-size="14">Patient Name: Jordan Rivera</text>
+  <text x="40" y="142" font-family="Arial" font-size="14">DOB: 11/22/1974</text>
+  <text x="40" y="164" font-family="Arial" font-size="14">Member ID: AC-330128</text>
+  <text x="40" y="210" font-family="Arial" font-size="14">Provider: Dr. Lila Ahmed</text>
+  <text x="40" y="232" font-family="Arial" font-size="14">NPI: 1098765432</text>
+  <text x="40" y="280" font-family="Arial" font-size="14">Diagnosis: Severe asthma exacerbation</text>
+  <text x="40" y="302" font-family="Arial" font-size="14">ICD-10: J45.901</text>
+  <text x="40" y="350" font-family="Arial" font-size="14">Procedure: Pulmonary function testing</text>
+  <text x="40" y="372" font-family="Arial" font-size="14">CPT: 94010</text>
+  <text x="40" y="420" font-family="Arial" font-size="14">Drug: Dupilumab</text>
+  <text x="40" y="442" font-family="Arial" font-size="14">NDC: 0024-0288-02</text>
+  <text x="40" y="490" font-family="Arial" font-size="14">Payer: Atlas Health</text>
+  <text x="40" y="512" font-family="Arial" font-size="14">Plan: Atlas Health Silver HMO</text>
+  <text x="40" y="560" font-family="Arial" font-size="14">Requested DOS: 02/01/2026</text>
+  <text x="40" y="640" font-family="Arial" font-size="14">Clinical note included. No lab panel attached.</text>
+</svg>

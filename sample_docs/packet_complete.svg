@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1100">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="40" y="80" font-family="Arial" font-size="22">Prior Authorization Packet</text>
+  <text x="40" y="120" font-family="Arial" font-size="14">Patient Name: Avery Patel</text>
+  <text x="40" y="142" font-family="Arial" font-size="14">DOB: 02/14/1981</text>
+  <text x="40" y="164" font-family="Arial" font-size="14">Member ID: HP-449201</text>
+  <text x="40" y="210" font-family="Arial" font-size="14">Ordering Provider: Dr. Sofia Kim</text>
+  <text x="40" y="232" font-family="Arial" font-size="14">NPI: 1234567890</text>
+  <text x="40" y="280" font-family="Arial" font-size="14">Diagnosis: Rheumatoid arthritis, seropositive</text>
+  <text x="40" y="302" font-family="Arial" font-size="14">ICD-10: M05.79</text>
+  <text x="40" y="350" font-family="Arial" font-size="14">Procedure: Infusion therapy</text>
+  <text x="40" y="372" font-family="Arial" font-size="14">CPT: 96413</text>
+  <text x="40" y="420" font-family="Arial" font-size="14">Drug: Infliximab</text>
+  <text x="40" y="442" font-family="Arial" font-size="14">NDC: 00006-4401-61</text>
+  <text x="40" y="490" font-family="Arial" font-size="14">Payer: Horizon Prime</text>
+  <text x="40" y="512" font-family="Arial" font-size="14">Plan: Horizon Prime Gold PPO</text>
+  <text x="40" y="560" font-family="Arial" font-size="14">Request Date: 01/12/2026</text>
+  <text x="40" y="582" font-family="Arial" font-size="14">Service Date: 02/04/2026</text>
+  <text x="40" y="640" font-family="Arial" font-size="14">Chart notes attached. Labs from last 90 days attached (CBC, CMP).</text>
+  <text x="40" y="662" font-family="Arial" font-size="14">Failed step therapy: trial of methotrexate documented.</text>
+</svg>

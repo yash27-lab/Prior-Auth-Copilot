@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1100">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <text x="40" y="80" font-family="Arial" font-size="22">Adverse Determination Notice</text>
+  <text x="40" y="120" font-family="Arial" font-size="14">Patient Name: Morgan Lee</text>
+  <text x="40" y="142" font-family="Arial" font-size="14">DOB: 07/09/1968</text>
+  <text x="40" y="164" font-family="Arial" font-size="14">Subscriber ID: RX-772045</text>
+  <text x="40" y="210" font-family="Arial" font-size="14">Physician: Dr. Caleb Watts</text>
+  <text x="40" y="232" font-family="Arial" font-size="14">NPI: 1543321099</text>
+  <text x="40" y="280" font-family="Arial" font-size="14">Diagnosis: Osteoarthritis of knee</text>
+  <text x="40" y="302" font-family="Arial" font-size="14">ICD-10: M17.11</text>
+  <text x="40" y="350" font-family="Arial" font-size="14">Procedure: Hyaluronic acid injection</text>
+  <text x="40" y="372" font-family="Arial" font-size="14">CPT: 20610</text>
+  <text x="40" y="420" font-family="Arial" font-size="14">Payer: Northgate Benefit</text>
+  <text x="40" y="442" font-family="Arial" font-size="14">Plan: Northgate Benefit Plus</text>
+  <text x="40" y="490" font-family="Arial" font-size="14">Request Date: 01/20/2026</text>
+  <text x="40" y="540" font-family="Arial" font-size="14">Decision: Denied for lack of conservative therapy documentation.</text>
+  <text x="40" y="562" font-family="Arial" font-size="14">Appeal rights included. Please submit clinical notes for reconsideration.</text>
+</svg>
